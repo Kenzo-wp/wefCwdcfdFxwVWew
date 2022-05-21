@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+
+    color: cornflowerblue
+}
+.heading {
+    width:80%;
+    font-size:22px;
+}
+.name_of_object ,#resul_object_accuracy{
+    color:cornflowerblue
+}
+#camera {
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
